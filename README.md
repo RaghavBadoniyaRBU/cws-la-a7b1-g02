@@ -14,6 +14,7 @@ Our journey spans four countries across islands, mountains, neon cities, and arc
 4. Greenland (Sea to Snow): Ilulissat Icefjord and the Northern Lights (Aurora).
 👥 Group Members & Contributions
 Roll Number	Student Name	Responsibilities & Contributions
+
 20	Raghav Badoniya	: Sea to Snow script & Figma Motion scenes (Philippines, Georgia, Greenland), webpage structure & styling
    
 40	Shivam Watane	: Tokyo to Tomorrow script & Figma Motion scenes (Japan), Japan webpage & CSS
