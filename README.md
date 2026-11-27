@@ -15,14 +15,13 @@ Our journey spans four countries across islands, mountains, neon cities, and arc
 👥 Group Members & Contributions
 Roll Number	Student Name	Responsibilities & Contributions
 
-20	Raghav Badoniya	: Sea to Snow script & Figma Motion scenes (Philippines, Georgia, Greenland), webpage structure & styling
-   
-40	Shivam Watane	: Tokyo to Tomorrow script & Figma Motion scenes (Japan), Japan webpage & CSS
+20	Raghav Badoniya	Script writing, content writing, image selection for Figma storyboards, storyboard slide creation, and Figma video audio integration.
 
-13	Aazeen Shaikh	: Storyboard compilation (storyboard.pdf), Bootstrap layout & responsive design
+40	Shivam Watane	Main Figma video creation, adding transitions, Figma video editing, and prototype creation.
 
-7	Devansh Selukar	: Website development, image searching and sourcing, credits & GitHub Pages deployment
+13	Aazeen Shaikh	Main HTML code development and website structure.
 
+7	Devansh Selukar	CSS styling, Bootstrap implementation, and responsive website design.
 
 🔗 Project Links
 - Live Website (GitHub Pages): [Insert your GitHub Pages URL here, e.g., https://username.github.io/cw-la-a7b1-g00/website/]
