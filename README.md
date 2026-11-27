@@ -24,7 +24,7 @@ Roll Number	Student Name	Responsibilities & Contributions
 7	Devansh Selukar	CSS styling, Bootstrap implementation, and responsive website design.
 
 🔗 Project Links
-- Live Website (GitHub Pages): [Insert your GitHub Pages URL here, e.g., https://username.github.io/cw-la-a7b1-g00/website/]
+- Live Website (GitHub Pages): [https://raghavbadoniyarbu.github.io/cws-la-a7b1-g02/]
 - Figma Design File (View-Only): [https://www.figma.com/design/bDYicwfFytotd4oYdzezxD/TRAVEL-DIARY?node-id=0-1&t=6gu9N2SIYEvFK4Ik-1]
 
 🎨 Design System (Colors & Fonts)
