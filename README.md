@@ -3,7 +3,7 @@ Travel Diary: Exploring Cultures Across the World
 Course: Computer Workshop-I Lab (26CS01PR0102-1)
 Assessment: First Year B.Tech, Sem-I – Lab Assessment (Group Project)
 Batch: A7 B1
-Group Number: 2
+Group Number: 6
 📖 Project Overview
 Our travel diary explores destinations across Japan, the Philippines, Georgia, and Greenland. It highlights each country's famous landmarks, natural beauty, and cultural experiences through an engaging visual journey.
 🌍 Countries & Destinations Featured
